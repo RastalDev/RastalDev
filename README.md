@@ -1,4 +1,8 @@
-## Hi there 👋
+```
+#!/bin/bash
+
+echo "Hello, my name is Rastal."
+```
 
 <!--
 **RastalDev/RastalDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
