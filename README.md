@@ -1,4 +1,4 @@
-```
+```shell
 #!/bin/bash
 
 echo "Hello, my name is Rastal."
