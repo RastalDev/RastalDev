@@ -4,7 +4,19 @@
 echo "Hello, my name is Rastal."
 ```
 
-![Static Badge](https://img.shields.io/badge/Linux%20Sysadmin-red?style=flat&logo=linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Linux%20Sysadmin-red?style=for-the-badge&logo=linux&logoColor=white)
+
+Computer nerd. Mostly doing Linux systems administration. Software tinkerer. Open source advocate and infosec enthusiast.
+
+I'm on Mastodon:
+
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/000773410?domain=https%3A%2F%2Fmastodon.social&style=for-the-badge&logo=Mastodon&logoColor=blue&labelColor=%23282a36)](https://mastodon.social/invite/cbY4MnUJ)
+
+
+
+
+
 
 
 <!--
