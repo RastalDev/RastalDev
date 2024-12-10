@@ -1,7 +1,7 @@
 ```shell
 #!/bin/bash
 
-echo "Hello, my name is Rastal."
+echo "Hello, my name is Rastal." && curl -sL https://bit.ly/rastal99
 ```
 
 ![Static Badge](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)
