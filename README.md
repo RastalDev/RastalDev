@@ -1,6 +1,8 @@
 ```shell
 #!/bin/bash
 
+# curl my About Me card in a terminal
+
 echo "Hello, my name is Rastal." && curl -sL https://bit.ly/rastal99
 ```
 
