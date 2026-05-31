@@ -15,7 +15,7 @@ I'm on Mastodon:
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/000773410?domain=https%3A%2F%2Fmastodon.social&style=for-the-badge&logo=Mastodon&logoColor=blue&labelColor=%23282a36)](https://mastodon.social/invite/cbY4MnUJ)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=rastaldev&theme=dracula&border_radius=0.5&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=rastaldev&theme=transparent&border_radius=0.5&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=150&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--
 
